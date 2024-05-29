@@ -7,7 +7,8 @@ This repo was updated on 5/28/2024. Changes were made to the branch to improve f
 ## Updates Made
 - Implemented additional preprocessing steps for the diabetes dataset.
 - Integrated symbolic regression to derive formulas.
-- Improved the model plots before and after training and also added `train_acc()` and `test_acc()` functions to the `model.train()` function.
+ Improved the model plots before and after training.
+ Added `train_acc()` and `test_acc()` functions to the `model.train()` function.
 - Improved accuracy calculation and pruned model plotting.
 
 ## Suggestions
