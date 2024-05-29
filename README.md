@@ -2,7 +2,7 @@
 In this repo, I am trying to implement the Kolmogorov Arnold Networks (KAN) on a diabetes dataset.
 
 ## Updates
-This repo was updated on 5/28/2024 along with the changes made to the branch to calculate the formulas as well.
+This repo was updated on 5/28/2024. Changes were made to the branch to improve formula calculations.
 
 ## Updates Made
 - Implemented additional preprocessing steps for the diabetes dataset.
